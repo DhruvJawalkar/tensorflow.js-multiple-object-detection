@@ -1,2 +1,2 @@
 # tensorflow.js-multiple-object-detection
-Loads coco-ssd model for object detection on image, webcam feed within the browser
+Setup files to loads coco-ssd model for object detection on image, webcam feed and display within browser by drawing on <canvas>
